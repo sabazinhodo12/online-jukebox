@@ -1,7 +1,7 @@
 {
   "name": "online-jukebox",
   "version": "1.0.0",
-  "homepage": "https://chrislmy.github.io/online-jukebox/",
+  "homepage": "https://sabajukebox.herokuapp.com/",
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
